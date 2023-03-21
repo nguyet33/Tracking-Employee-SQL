@@ -54,7 +54,20 @@ When you are at the destination you would like to clone, follow through with the
 For Windows: git clone "key that was copied to your clipboard" --> Enter
 
 ## Usage
-Input the desire team information to create an HTML file in the asset folder. Then from there, you can run the system in your prefer browser to see the resutls. 
+- Start application by submiting node index.js
+- Select the follow options of
+    - View departments
+    - View roles
+    - View Employees
+    - Add Departments
+    - Add Role
+    - Add Employees
+    - Update Employees
+- After going through each prompt the application will add or update the database.
+
+## Video 
+[Untitled_ Mar 21, 2023 12_58 PM.webm](https://user-images.githubusercontent.com/120419348/226728419-5dae8be6-f1f3-4942-82fb-2f74f8c62e48.webm)
+
 
 
 ## Credits
