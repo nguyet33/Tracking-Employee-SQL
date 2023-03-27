@@ -53,6 +53,8 @@ When you are at the destination you would like to clone, follow through with the
 
 For Windows: git clone "key that was copied to your clipboard" --> Enter
 
+Once clone, input npm i into console to install the dependencies. Then add a dotenv with DB name, User and password. 
+
 ## Usage
 - Start application by submiting node index.js
 - Select the follow options of
