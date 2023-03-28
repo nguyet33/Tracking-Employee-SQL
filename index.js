@@ -221,7 +221,7 @@ async function dbConnection(select) {
     console.log(err);
   }
 }
-
+// function to allow users input. With async it will bring user back to the beginning once choice is done. 
 function userPrompt() {
   inquirer
     .prompt([
