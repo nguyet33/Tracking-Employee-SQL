@@ -68,8 +68,6 @@ Once clone, input npm i into console to install the dependencies. Then add a dot
 - After going through each prompt the application will add or update the database.
 
 ## Video 
-[Untitled_ Mar 21, 2023 12_58 PM.webm](https://user-images.githubusercontent.com/120419348/226728419-5dae8be6-f1f3-4942-82fb-2f74f8c62e48.webm)
-
 
 
 ## Credits
