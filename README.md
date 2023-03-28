@@ -73,4 +73,8 @@ Once clone, input npm i into console to install the dependencies. Then add a dot
 
 
 ## Credits
+Stack Overflow 
 UW BOOTCAMP DISCORD - Run by Ben.L
+Howard Lee - UW Bootcamp 
+Andy Gaudy - UW Bootcamp
+Nhan Duong - UW bootcamp
